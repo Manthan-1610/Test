@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Crime Report Map</title>
+    <style>
+        #map {
+            width: 100%;
+            height: 100vh;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div id="map"></div>
+
+    <script>
+        function updateMap() {
+            $.getJSON('/update_map', function(data) {
+                $('#map').html(data.map);
+            });
+        }
+
+        $(document).ready(function() {
+            updateMap(); // initial map load
+            setInterval(updateMap, 30000); // update every 30 seconds
+        });
+    </script>
+</body>
+</html>

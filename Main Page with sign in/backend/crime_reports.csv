@@ -1,0 +1,10 @@
+id,type,description,latitude,longitude,timestamp,anonymous,media_url
+1,dcsac,wefefwef,23.006203874784106,72.66355624713457,2024-06-29T16:48:15.206595,False,http://localhost:5050/uploads/logo.jpg
+2,fwe,eev,23.006581,72.663708,2024-06-29T16:52:10.386333,True,http://localhost:5050/uploads/Screenshot_2024-06-20_214442.png
+3,theft,In a house,23.0064467,72.6637488,2024-06-29T21:07:11.082367,True,http://localhost:5050/uploads/WIN_20231130_15_06_43_Pro.jpg
+4,homocide,murder of 2 people,22.9802405,72.61793099999998,2024-07-01T19:47:53.348029,False,http://localhost:5050/uploads/logo.jpg
+5,murder,2 jaan nu murder,22.97990850023452,72.61803168902439,2024-07-01T22:03:40.403867,False,https://i.ibb.co/Hxxv7M0/logo.jpg
+6,theft,chori ho gayi,23.022505,72.5713621,2024-07-04T15:17:34.455705,False,http://localhost:5050/uploads/WIN_20221112_09_17_16_Pro.jpg
+7,,wohhhh,22.9797851,72.6181472,2024-07-04T15:21:49.415351,False,http://localhost:5050/uploads/WIN_20231130_15_06_43_Pro.jpg
+8,ggtwscag,wohhhhcsaa,23.022505,72.5713621,2024-07-04T15:25:36.579659,False,http://localhost:5050/static/uploads/WIN_20240304_22_31_08_Pro.jpg
+9,ggtw,hdbcka,23.022505,72.5713621,2024-07-04T15:43:56.909529,True,http://localhost:5050/static/uploads/WIN_20221112_09_17_16_Pro.jpg
