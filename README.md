@@ -4,7 +4,7 @@
 
 1. **User Authentication and Authorization**
    - User Registration/Login: Secure login for users (citizens, police, admin) with different access levels.
-   - OAuth Integration: Allow users to log in using social media accounts (e.g., Google, Facebook).
+   - OAuth Integration: Allow users to log in using different social media accounts (e.g., Google, Facebook).
 
 2. **Real-Time Crime Reporting**
    - Report Submission: Users can submit crime reports with details such as type of crime, location, time, description, and optional media (photos/videos).
